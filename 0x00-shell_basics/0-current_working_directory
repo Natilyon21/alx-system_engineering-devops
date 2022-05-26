@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "/tmp/correction/2009923706286486672805743736649503987769_5/205/63852/0x00-shell_basics
-"
+$ sudo chmod +x current_dir.sh
