@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$HOME/2-path:$PATH
+echo /2-path $PATH
