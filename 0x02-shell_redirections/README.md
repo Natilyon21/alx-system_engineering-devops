@@ -1,1 +1,1 @@
-shell redirections
+printing words
